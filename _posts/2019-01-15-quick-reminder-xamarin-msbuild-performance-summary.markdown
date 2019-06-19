@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Remider: Xamarin - MSBuild Perfomance Summary"
+title:  "Quick Reminder: Xamarin - MSBuild Perfomance Summary"
 date:   2019-01-15 20:10:00 +0000
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Remider: Git - Remove untracked files"
+title:  "Quick Reminder: Git - Remove untracked files"
 date:   2019-01-14 17:01:00 +0000
 ---
 
