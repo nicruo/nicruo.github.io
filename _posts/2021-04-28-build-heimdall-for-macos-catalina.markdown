@@ -4,7 +4,7 @@ title:  "Build Heimdall for macOS Catalina"
 date:   2021-04-28 08:25:00 +0100
 ---
 
-Based on https://gitlab.com/BenjaminDobell/Heimdall/-/issues/513
+Based on [https://gitlab.com/BenjaminDobell/Heimdall/-/issues/513](https://gitlab.com/BenjaminDobell/Heimdall/-/issues/513)
 
 ```
 git clone https://github.com/Benjamin-Dobell/Heimdall.git
