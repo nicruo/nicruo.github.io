@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick Reminder: Linux simple web server"
-date:   2021-05-03 13:52:00 +0100
+date:   2022-04-11 13:52:00 +0100
 ---
 
 If python3 is installed:
